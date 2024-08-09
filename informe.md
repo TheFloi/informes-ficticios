@@ -16,7 +16,7 @@ Las metodologías utilizadas para descubrir esta fuga
    
 - Reporte de nuestro helping desk
 
-![metodologia de respuesta incidentes]
+![metodologia de respuesta incidentes](./diagrama.png)
 
 ## 3.- Hallazgos
 1.- El Helping Desk descubrió sus datos siendo utilizados sin autorización, por lo que hizo el reporte.
