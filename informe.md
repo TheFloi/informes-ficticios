@@ -1,5 +1,4 @@
-
-# informe de caso página marketing
+# Informe de caso página marketing
 Informe forense: Ataque Robo de datos financieros
 Autor: Joel Velarde
 cargo: jefe ciberseguridad
@@ -10,7 +9,7 @@ hora: 3:00 pm
 Este informe está basado en un incidente de seguridad que sucedió el día 8 de agosto a las 2 pm, en el que se notificó de una fuga de datos financieros sencibles de un usuario. Por fortuna, el usuario era el helping desk de la empresa y se percató rápidamente, cambiando los datos y evitando que el problema pase a mayores. Se realizó una investigación forense inmediata y se descubrió cómo el atacante logró robar esta información. Se identificaron las vulnerabilidades y se proponen soluciones para mitigar el riesgo y prevenir futuros ataques similares
 
 ## 2.- Metodología
-Las metodologías utilizadas para descubrir esta fuga
+Las metodologías utilizadas para descubrir esta fuga:
    
 - Mediante un monitoreo de transacciones anomalas.
    
