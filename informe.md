@@ -1,8 +1,12 @@
 # Informe de caso página marketing
 Informe forense: Ataque Robo de datos financieros
+
 Autor: Joel Velarde
+
 cargo: jefe ciberseguridad
+
 fecha: 8/08/2024
+
 hora: 3:00 pm
 
 ## 1.- Resumen ejecutivo
